@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ChTiSh
+- 👋 Hi, I’m Chen@ChTiSh
 - 👀 I’m interested in travelling, reading novels and finding good food
-- 🌱 Always learning and happy to solve problems
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... Email:chentina.shen@gmail.com   |   LinkedIn: www.linkedin.com/in/chentshen
 
      
