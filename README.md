@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Chen@ChTiSh
-- 👀 I’m interested in travelling, reading novels and finding good food
-- 📫 How to reach me ... Email:chentina.shen@gmail.com   |   LinkedIn: www.linkedin.com/in/chentshen
+👋 Hi there, this is Chen. 
 
-     
+A food enthusiast, and someone just enjoy reading romance novels and always dream about making something cool that help people.
+
+Well... I don't know what else to write here. 
+
+But whoever is reading this, have a great day/night/weekend/month/year!
 
 <!---
 ChTiSh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
